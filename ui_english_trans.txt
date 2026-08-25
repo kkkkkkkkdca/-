@@ -1,0 +1,530 @@
+Skills
+Shop
+Heals HP:
+Heals MP:
+Not enough MP!
+Buy [
+Sell [
+Use: 
+(Usable in battle)
+Learn: 
+Use: All
+Equip: 
+Use Here
+Healing Power
+Magic Restoration
+HP Restoration
+MP Restoration
+Damage Power
+Spell Power
+Hold: Give Up
+View
+Jump & Cancel
+Accept & Action
+Menu
+View/Cancel
+Jump/Accept
+Bonus Turn!
+<u>Battles:</u> Hit an enemy's weak point for more damage and to fill up the star-shaped meter on the upper left to gain an additional bonus turn. Hitting weaknesses also pushes back an enemy's next turn. Attacking foes from behind or from above also does more damage, as well as utilizing a character's attack type well (slice, blunt and projectiles). Target an enemy to see its weaknesses.
+<u>Using skills on surroundings:</u> To progress, you may sometimes need to use a skill on hotspots marked with ''!''. Select ''Use Here'' from a character's skill menu to do so.
+<u>Skills:</u> You'll find skills and spells during your adventure. Open a character's skill menu and equip skills in the ''learn'' slot to be able to use them. After gaining enough learning points (LP) in a battle, the character will learn the skill permanently.
+<u>Exploration:</u> Your surroundings will hide useful items and treasures. Keep an eye out for them. Follow the ? icon in the mini radar to progress the story.
+<u>Saving:</u> The game doesn't save automatically. Please save manually from the menu.
+Play Tips
+?
+WASD & E/Space/Q
+Arrow Keys & X/C/V
+Keyboard Controls:
+Hard
+Normal
+Easy
+Difficulty:
+Max Res
+High Res
+Mid Res
+Graphics Mode:
+Volume:
+Settings
+Quit
+New Game
+Load
+Save
+Local Travel
+Game
+Quests
+Equipment
+Items
+Back
+Resist:
+Weak:
+Defend
+Move
+Attack
+Rok
+Benno
+Karas
+Reyn
+Slith
+Mattis
+Healing Potion
+For your basic healing needs -- in and out of battle.
+Healing Potion Plus
+These are quite a bit stronger!
+Healing Potion Ultra
+These are much stronger!
+Magic Potion
+Restores some magic power.
+Magic Potion Plus
+Magic Potion Ultra
+These are even stronger!
+Elixir
+Restores both health and magic of everyone.
+Restoration Dust
+Regenerate the target's health for 4 turns (1x1 field effect).
+Revival Bead
+Revives a fallen ally.
+Revival Pearl
+Revives a fallen ally with more health.
+Vita Herb
+Increases your maximum HP.
+Red Herb
+Increases your strength permanently.
+Green Herb
+Increases your defense permanently.
+Purple Egg
+Increases your MP permanently.
+Pink Egg
+Increases your Magic permanently.
+Violet Egg
+Increases your Magic Defense permanently.
+Bomb
+Why not explode your enemies a bit?
+Explosive
+Packs quite an explosive punch!
+Giga Bomb
+Its blast radius can hit multiple enemies!
+Keycard
+Just where could this fit?
+Palm Bark
+A curious piece of bark.
+Mushroom Powder
+Powder from a big cave mushroom.
+Cursed Bone
+A bone from an undead creature.
+Blood Ruby
+A blood red ruby.
+Crystal Fragment
+A beautiful crystal shard.
+Golden Feather
+A rare golden feather.
+Silver Cockring
+It's sure to look great on one's manhood.
+Soul Stone
+Imbued with dragon essence.
+Rusty Sword
+This sword is slowly getting rusty and dull.
+Iron Sword
+A common standard-issue sword.
+Steel Sword
+Shining Sword
+A sword that seems to vibrate with life force.
+Order Sword
+Beast Sword
+Hellfire Blade
+Forged in hell by the biggest and strongest demons.
+Punching Glove
+Protection for those who fight with their fists.
+Steel Smasher
+Perfect for punching others in the face. Will surely leave a mark.
+Bone Cruncher
+Time to break some bones!
+Crystal Fist
+Fist of Fury
+Imbued with the fury of hellfire.
+Dinky Wand
+An old wand. Still does the trick.
+Scholar's Wand
+A wand used by order recruits.
+Magician Staff
+Dark Magus Staff
+For truly abominable mages.
+Battle Knives
+A set of sharp knives.
+Bone Knives
+Hell's Kisses
+A kiss of blood and pain.
+Spiked Club
+A club with sharp spikes for delivering extra pain.
+Heavy Club
+Nothing fancy, just a club packed with heavy iron.
+Big Boy Club
+Demon Bone Club
+Demon bones are rare, heavy and hard.
+Old Shirt
+Basic clothing. Better than nothing!
+Leather Armor
+Quite a bit sturdier than everyday clothes.
+Rusty Metal Armor
+Iron Armor
+Quite heavy, but great for protection.
+Light Steel Armor
+Heavy Steel Armor
+Hell Warrior Armor
+Big and bulky, but surprisingly light.
+Magician Robe
+For those adept with magic.
+Mage Armor
+Hellfire Robe
+Fabric woven from hellhound fur.
+Leather Headband
+Keeps hair and sweat out of your face!
+Leather Helmet
+Iron Helmet
+Protective Gloves
+They keep your hands well protected.
+Mystical Ring
+A ring with mysterious powers.
+Ring of Hearts
+Wolf Ring
+Brings out the wolf in you.
+Magic Ring
+Strengthens one's magic.
+Bull's Nose Ring
+Looks great on big, buff dudes.
+Cursed Amulet
+Maybe think twice about wearing this.
+Haste Amulet
+Increases your reflexes and speed.
+Warrior's Crest
+Demon's Deal
+A dark trade-off, but is it worth it?
+Dark Fire Ring
+Some protection against fire and darkness.
+Bright Ice Ring
+Some protection against ice and light.
+Quickfire
+A quick burst of flame.
+Sparkfire
+A burst of flame that lingers.
+Permafire
+A burst of flame that remains on the battlefield for a while.
+Dragonfire
+A monstrous burst of flames.
+Rotfire
+Breeze of Light
+A basic light spell.
+Feather Light
+A spell that allows for farther movement and quicker turn speed during battle.
+Holy Light
+A blazing explosion of light.
+Cold Hinder
+Make enemies slower and limit their mobility.
+Darkness
+A shower of pure darkness.
+Dark Slap
+A jolt of pure darkness.
+Bone Shower
+A shower of bones.
+Deep Bury
+A shower of rocks.
+Dark Blast
+Dark Surge
+A big shower of pure darkness.
+Dark Storm
+A grand shower of pure darkness.
+Dark Exchange
+A dark and painful placement switch.
+Fire Blast
+A blast of fierce fire.
+Fiery Push
+Demonic Strength
+Grants strength by invoking the fires of hell.
+Ice Spark
+A blast of ice.
+Ice Shot
+Ice Storm
+A fierce ice wind.
+Ice Explosion
+A explosive ice wind.
+Ice Wind
+Freezing ice wind.
+Turtle Heal
+A basic healing skill of turtlekin.
+First Aid
+A basic healing skill anyone can use.
+First Aid Plus
+A stronger healing skill developed by Karas.
+Blazing Restoration
+A powerful healing spell that may even undo curses.
+Cure
+A very strong healing skill.
+Regeneration
+Keeps healing a character for a few turns.
+Supra Heal
+Heal all your friends in one go!
+Supra Heal Plus
+Revive
+Revives a fallen friend.
+Orcen Protection
+Protect your friends with increased physical defense.
+Big Orc Hug
+Hard Shell
+Harden one's shell for increased defense.
+Find a Chicken
+
+Hello! Have you found chicken pls?
+Request from the Order
+Go to the mayor's house.
+Retrieve a relic from the crater in sector D7.
+Find Kio in the village.
+Head east through the forest.
+Find a way out of the Forest of Lost Souls.
+Lost Souls
+Make your way through Lymecca.
+Leave through the eastern tower.
+Find Kio.
+Talk to Berta.
+Leave the university tower and head east.
+Find a way through the desert.
+Find a way through the eastern desert ruins.
+Leave through the desert's northern end and head west to the crater.
+Explore the laboratory in the crater.
+Soldier Reyn
+Go back to the base due south.
+Find some spare change for Jason. 10 Gold should do.
+Go to bed.
+Head deeper into the valley.
+Find a Blood Ruby for the turtle demon.
+Take the Blood Ruby to the little demon.
+Take a look around the old monastery.
+Wake the giant orc.
+Master Rok
+Explore Rok's fort.
+Reactivate the other portal gate.
+Get a pass from Akoh's chief.
+Head through Krihm Valley and go east.
+Head through Krihm Valley and go east to Falgar's monastery.
+Search the valley around Falgar's monastery for the portal crystal.
+Return the crystal to the portal and go back to Rok's fort.
+Stahlheim's Fall
+Get supplies in Lumbak.
+Head towards Stahlheim.
+Find a way across Stahl Dam.
+Head into Stahlheim and find the Order's Library.
+Follow the Bishop.
+Three Dragons
+Look for a way home.
+Go to the lake where Slith's acquaintance lives.
+Retrieve the Soul Stone from the lake's cavern.
+Take the Soul Stone to the black dragon.
+Use the portal in the forest to the south of the lake.
+Find the two dragons and let them imbue their essence in the soul stone.
+Talk to the Black Dragon.
+The Red Dragon
+Find the Red Dragon's lair.
+Find a way through Angel Gate.
+Receive Red's Blessing.
+The Green Dragon
+Find the Green Dragon's lair.
+Find your friends.
+Receive Green's Blessing.
+Facing Falgar
+Find Falgar in his palace above Stahlheim.
+Defeat Goraia.
+Benno's Worries
+Something's bothering Benno about a place near the Path of the Fallen.
+Explore Benno's old hometown.
+Slith's Powers
+Retrive Slith's powers from the Fallen One's Domain.
+Let Slith use his powers on you in his castle.
+Mattis, Treasure Hunter
+Help Mattis find a valuable treasure for once.
+Give the treasure to Mattis' brother Kilmar.
+Special Magic for Karas
+Find a lead about where strong restoration magic may be found.
+Search the northwestern beach for an elemental well.
+Use the new magic on the petrified trolls in Karas' hometown.
+Bastion Altar
+There's a strange altar in the cellar of Rok's fort...
+Find more Masters and gain new powers at the Bastion's altar.
+Spells under the Lake
+Find the elemental well Black mentioned.
+Rock Fly
+Frogzard
+Creeper
+Blood Bat
+Leya
+Daemon
+Rod
+Jason
+Sonic Fly
+Rock Crusher
+Arden
+Orc
+Cave Entrance
+Falgar's Monastery
+Bridge
+Town Entrance
+Chief's Place
+Winged Ape
+Winged Head
+Cross
+Giant Angel
+Soul Eater
+Backdoor Entrance
+Southern Path
+Throne Room
+Northern Gate
+Slime Master
+Slimeworm
+Slime Hound
+Western Gate
+Lower Floors
+Eastern Path
+Castle Entrance
+Ripper Lizard
+Chicken
+Red Frogzard
+Meadow
+Portal
+Southern Exit
+Cliff Cave
+Cursed Skull
+Wild Boar
+Hellworm
+The Hardest Skull
+Lower Cave Entrance
+Upper Path
+Lower Path
+Upper Cave Entrance
+Hellhound
+Restless Bones
+Wolfer
+Aruka
+Golden Skull
+Crimson Crab
+Fire Bat
+Northern Path
+Dam's Middle
+Sandworm
+Frenzied Soul
+Wyvern
+Chest
+Soldier
+Memory Devourer
+Petrified Troll
+Giant Enslaved
+Farmer
+Trench
+Raptor
+Enslaved
+General Rugg
+Snow Crow
+Gash Dweller
+Hateful Demon
+Daemon General
+Wings of Slime
+City Plaza
+Upper Quarter
+Western Path
+Arena Entrance
+Falgar's Palace
+General Korvus
+Aggressive Wyvern
+Blazing Hellhound
+Dark Element
+Lord Falgar
+Throne Approach
+Castle Gate
+Courtyard
+Restless Skull
+Misshapen Bones
+Deep Trencher
+Velocity Skull
+Barrier Crystal
+Rock Titan
+Rock Crawler
+Ruined Town
+Dead Lake
+Southern Gate
+Upper Back Entrance
+Lower Back Entrance
+Deathwisher
+Blazing Wyvern
+Shadow Bones
+Goraia
+Eye of Goraia
+Sealed Power
+Angel Remnant
+Goraia's Domain Gate
+Goraia's Thigh
+Goraia's Shoulder
+Goraia's Hoof
+Goraia's Hand
+Deathtree
+Mound Crawler
+Blood Fly
+Green Dragon
+Water Hole
+Green's Lair
+Lizard Village
+Hot Cliffs
+Valley Beast
+Elemental Frog
+Ice Crystal
+Black Dragon
+Cavern Crab
+Darkness Dweller
+Lake Cavern
+Black's Rest
+Soul Stone Keep
+Monastery Path
+Shadow Wolf
+Twitching Bat
+Winter Boar
+Red Dragon
+Shiny Elemental Skull
+Death Crow
+Horrible Snow Beast
+Glacier
+Orc Settlement
+Red's Lair
+Bullier Crow
+Black Ripper
+Sea Snake
+Sea Turtle
+Elemental Well
+Hood Bones
+Dusk Slime
+Night Slime
+Hard Slime
+Fort Entrance
+Portal Circle
+Wyrm Altar
+Lone Island
+Swamp Snake
+Swamp Entrance
+Lower Stahlheim
+City Gate
+Underground Hideout
+Upper Ledge
+Stahlheim Outskirts
+Lower Demon Slogg
+Upper Floor
+Entrance
+Kilmar's House
+Boar
+Lucky One
+Diamond Wyvern
+Hellrazer
+Birdo Giganto
+Froggos Gigantos
+The Depths
+Stahlheim Meadows
+Western Mountains
+Yuath Desert
+Akoh Plains
+Weak!
+Back Attack!
+Higher Ground!
+Resist!
